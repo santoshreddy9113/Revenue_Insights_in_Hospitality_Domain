@@ -1,5 +1,8 @@
 # Revenue_Insights_in_Hospitality_Domain
 
+![image](https://github.com/user-attachments/assets/5aeb8650-4449-48b9-977f-7fdfdeab3f07)
+
+
 This file contains all the meta information regarding the columns described in the CSV files. we have provided 5 CSV files:
 1. dim_date
 2. dim_hotels
@@ -57,21 +60,31 @@ This file contains all the meta information regarding the columns described in t
 Week-on-Week (WoW) is a type of business metric that measures changes in a specific variable 
 over a period of one week compared to the previous week. It is a common way of tracking 
 business performance over time and is particularly useful for analyzing trends and identifying 
-areas where improvements can be made.
+areas where improvements can be made. 
 
-## Here are the metrics for which we found the WoW change% in this video:
+
+## Here are the metrics for which we found the WoW change%:
 
 1. Revenue WoW change %: To get the revenue change percentage week over week.
+   ![image](https://github.com/user-attachments/assets/27062a1a-eab1-4613-9924-785b4c1672d2)
+
  
 2. Occupancy WoW change %: To get the occupancy change percentage week over week.
+   ![image](https://github.com/user-attachments/assets/745d772f-3b25-423d-bfa3-70205d0c1c69)
+
    
 3. ADR WoW change %: To get the ADR (Average Daily rate) change percentage week over 
 week.
 
+
 4. RevPAR WoW change %: To get the RevPAR (Revenue Per Available Room) change 
 percentage week over week.
+![image](https://github.com/user-attachments/assets/7c13145b-5f49-4b59-90af-7dee3044867f)
+
 
 5. Realisation WoW change %: To get the Realisation change percentage week over week.
+   ![image](https://github.com/user-attachments/assets/fcca8f57-fbcd-4483-811e-0a984273c57c)
+
     
 6. DSRN WoW change %: To get the DSRN (Daily Sellable Room Nights) change percentage 
 week over week.
